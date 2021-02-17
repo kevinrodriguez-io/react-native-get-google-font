@@ -9,11 +9,11 @@ ahead and setup the splashscreen and Apploading components.
 
 What this little helper tool does is:
 
-1- Grabs the fonts from Github.
-2- Puts them under assets/fonts.
-3- Renames the fonts to match apple postscript so you can have only one style `fontFamily` per platform (except web, maybe).
-4- Optionally runs `react-native link` to link the assets, creating react-native.config.js if it doesn't exists (RN >= 60).
-5- Creates a little guide on how to use the fresh downloaded fonts.
+1. Grabs the fonts from Github.
+2. Puts them under assets/fonts.
+3. Renames the fonts to match apple postscript so you can have only one style `fontFamily` per platform (except web, maybe).
+4. Optionally runs `react-native link` to link the assets, creating react-native.config.js if it doesn't exists (RN >= 60).
+5. Creates a little guide on how to use the fresh downloaded fonts.
 
 That's it.
 
