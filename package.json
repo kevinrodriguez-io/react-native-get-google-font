@@ -1,0 +1,21 @@
+{
+  "name": "react-native-get-google-font",
+  "version": "0.1.0",
+  "description": "An alternative to expo-font and @expo-google-font/some-font that allows bare react-native users to pre-install their favorite expo-google-fonts with no dependencies and load them ahead of time.",
+  "main": "cli.js",
+  "repository": "https://github.com/kevinrodriguez-io/react-native-get-google-font",
+  "author": "Kevin Rodriguez <_@kevinrodriguez.io>",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "react-native-get-google-font": "./cli.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "marked": "^2.0.0",
+    "marked-terminal": "^4.1.0",
+    "ora": "^5.3.0",
+    "prompts": "^2.4.0",
+    "rmfr": "^2.0.0"
+  }
+}
