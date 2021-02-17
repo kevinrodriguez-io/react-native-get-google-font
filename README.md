@@ -19,4 +19,9 @@ That's it.
 
 ## Usage
 
-`npx react-native-get-google-font`
+1. `npx react-native-get-google-font`.
+2. Provide your font name (lowercase, check packages from expo-google-fonts).
+3. Create your github user token and add it on the terminal.
+4. Follow the wizard steps, and enjoy dead-simple font install.
+
+![GIF](https://user-images.githubusercontent.com/6248571/108167690-abe46780-70bb-11eb-9e1f-64d4628a9ae8.gif)
