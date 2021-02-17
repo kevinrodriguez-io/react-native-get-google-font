@@ -4,7 +4,7 @@
 
 ## Summary
 
-I made this package for those who don't want to introduce an extra "loading" state for their applications, having to go
+I made this package for those who don't want to introduce an extra "loading" state for their applications or having to go
 ahead and setup the splashscreen and Apploading components.
 
 What this little helper tool does is:
